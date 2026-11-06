@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PARASRAM.OS — Personal Portfolio
 
 A responsive, OS-inspired portfolio for Parasram Gaikwad. The site is built as a static website with HTML, CSS, vanilla JavaScript and a Three.js hero scene. Its visual direction uses a dark interface with neon blue and purple accents.
@@ -46,3 +47,7 @@ PARASRAM.OS is my personal developer portfolio, built to share my story as an In
 - Add a real public demo URL only after deploying the relevant project.
 - Add real screenshots from AWS Amplify after deployment.
 - Never commit AWS access keys, passwords or tokens.
+=======
+# parasram-os-portfolio
+Personal Developer Portfolio built with HTML, CSS and JavaScript, showcasing my skills, projects, AWS Student Builder Campus Leader experience, and interactive terminal.
+>>>>>>> 29bffd88d652dc60b08b4e8b265611f9eff86c27
